@@ -23,9 +23,17 @@
 - CRUD en PostgreSQL
 - Instalaciones y Configuraciones Básicas
 - LED y Botón con Raspberry Pi
+  -- https://drive.google.com/file/d/1wWOYaVP-p3EJ8OO2Dcb5eAh5b8f4ZBvp/view?usp=sharing
+  -- https://drive.google.com/file/d/1EGswnEB2Taczzko99IiBaU81Ss8jiIFu/view?usp=sharing
 - Conexión MQTT en Node-RED
 ### Ejercicio 3 Circuito funcional en placa fenólica
+- ![Imagen de WhatsApp 2025-02-06 a las 23 21 05_7b79acd5](https://github.com/user-attachments/assets/e39893eb-1b16-48f4-aea5-75abcbe280e8)
+- ![Imagen de WhatsApp 2025-02-06 a las 23 21 05_4e6b449a](https://github.com/user-attachments/assets/27b331a7-88f8-49d1-bb3d-906cbb8f4d8b)
 
 ### Ejercicio 4 Figura 2D o 3D soldada
+- ![Imagen de WhatsApp 2025-02-06 a las 23 21 05_0a2d3408](https://github.com/user-attachments/assets/875e0c1e-489d-4e3a-a13b-d421d507f686)
+- ![Imagen de WhatsApp 2025-02-06 a las 23 21 05_7418d538](https://github.com/user-attachments/assets/d19699e0-1878-43e5-b5d9-4a46cb1b6d07)
+
+
 
 ## 
