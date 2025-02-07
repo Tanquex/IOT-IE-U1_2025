@@ -6,6 +6,8 @@
 
 ## Parte Teórica
 - ![image](https://github.com/user-attachments/assets/04a2a2d3-0ca3-4d9c-9e5b-50eb92df800c)
+- ![image](https://github.com/user-attachments/assets/a3f5f2f7-37e3-4f7b-9186-6661080f71b0)
+
 
 
 ## Parte Práctica
