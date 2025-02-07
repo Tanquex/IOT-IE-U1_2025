@@ -5,6 +5,8 @@
 - Grupo: GDS0653
 
 ## Parte Teórica
+- ![image](https://github.com/user-attachments/assets/04a2a2d3-0ca3-4d9c-9e5b-50eb92df800c)
+
 
 ## Parte Práctica
 ### Ejercicio 1: Almacenamiento de Datos
