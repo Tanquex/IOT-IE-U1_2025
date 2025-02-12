@@ -3,6 +3,7 @@
 - Aguayo Santana Carlos Samael
 - Pardo Zamarripa Juan Diego 
 - Grupo: GDS0653
+- Carpeta Drive https://drive.google.com/drive/folders/1AZ48XzYE3m9i6tQEuGAFkETP7qQPwKOo?usp=sharing
 
 ## Parte Teórica
 - ![image](https://github.com/user-attachments/assets/04a2a2d3-0ca3-4d9c-9e5b-50eb92df800c)
@@ -18,12 +19,16 @@
 
 ## Parte Práctica
 ### Ejercicio 1: Almacenamiento de Datos
-- Diagrama de conexión
-- Código documentado
+- Diagrama de conexión![image](https://github.com/user-attachments/assets/9c64f8e5-092a-4673-a86d-0a71d18f12db)
+
+- Código documentado https://drive.google.com/file/d/1Vvj9qADiBUCTNsd3DgwzZoUJzfwUSZe-/view?usp=sharing
+- JSON: https://drive.google.com/file/d/1CTsjqp1pgYK0u6nXGNctEad1cK_AmjnG/view?usp=sharing
 - Video: https://drive.google.com/file/d/1Fb6RoZ5rPq_31KzgFBbNB4lgnALuH9ca/view?usp=sharing 
 ### Ejercicio 2: Control de Actuadores
-- Diagrama de conexión
-- Código documentado
+- Diagrama de conexión ![image](https://github.com/user-attachments/assets/745e8074-f3a7-4292-8bff-92b3e1a6f018)
+
+- Código documentado https://drive.google.com/file/d/1Vvj9qADiBUCTNsd3DgwzZoUJzfwUSZe-/view?usp=sharing
+- JSON: https://drive.google.com/file/d/1CTsjqp1pgYK0u6nXGNctEad1cK_AmjnG/view?usp=sharing
 - Video https://drive.google.com/file/d/1181WibLRmZ4Kj7gHTcCtQdIHo_m8BpVB/view?usp=sharing
 ### Ejercicios en Clase: Videos Demostrativos
 - CRUD en PostgreSQL: https://drive.google.com/file/d/1jHx2gcYQaNMwA0cLFYykv22VyuSCAb3V/view?usp=sharing
